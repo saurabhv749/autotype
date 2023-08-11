@@ -1,0 +1,15 @@
+{
+  "name": "autotype",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {
+    "start": "node cheat/index.js"
+  },
+  "keywords": [],
+  "author": "saurabh verma",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^1.4.0",
+    "puppeteer": "^21.0.3"
+  }
+}
